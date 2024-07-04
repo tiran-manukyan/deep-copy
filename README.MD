@@ -1,0 +1,2 @@
+# CopyUtils
+#### CopyUtils is a Java utility class designed to perform deep copy operations on a wide variety of objects, including primitives, arrays, collections, and custom objects. This repository includes the CopyUtils class and a comprehensive suite of unit tests to ensure its reliability and correctness.
